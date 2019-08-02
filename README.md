@@ -25,4 +25,4 @@ output: html_document
 </ol>
 </body>
 </html>
-© 2019 GitHub, Inc.
+
